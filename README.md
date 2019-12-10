@@ -13,9 +13,6 @@ A sophisticated open source cross platform (incl. mobile) game engine for the po
 - Customizable verb system
 - GUI editor
 - Scripdikas scriping language
-
-## Features for publishing
-
 - Multi platform support (one codebase multiple target platforms incl. mobile)
 
 Items in the lists are ordered by priority.
