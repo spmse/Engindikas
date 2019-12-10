@@ -5,12 +5,13 @@ A sophisticated open source cross platform (incl. mobile) game engine for the po
 * Scene rendering
 * Sprite and animation rendering
 * Object interaction
-* Pathing system (This manages the places where you can walk and not walk, please suggest a good name for it :D)
+* Pathing system (This manages the places where you can walk and not walk, please suggest a good name for it :D) 
+  * EzWay?
 * Dialog system
 * Sound system
 * Customizable verb system
 * GUI editor
-* Scripdikas scriping language
+* Scripdikas scripting language
 
 # Features for publishing
 * Multi platform support (one codebase multiple target platforms incl. mobile)
